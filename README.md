@@ -4,8 +4,7 @@ Big Data clothing recommendation and demand forecasting system.
 
 MSc Big Data Management and Analytics, Griffith College Dublin
 
-Student: Aditi Tiwari (Student No: 3195197)
-
+Student: Aditi Tiwari 
 
 ## Overview
 

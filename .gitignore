@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Kaggle key
+kaggle.json
+
+# Editor
+.vscode/
+
+# Large data files (kept locally)
+data/raw/
+data/tableau/
